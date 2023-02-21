@@ -1,0 +1,100 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	margin: 0 10px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.banner {
+	background-color: #0077c0;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.services {
+	padding: 20px;
+}
+
+.services h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.services ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.services li {
+	margin: 10px 0;
+}
+
+.about-us {
+	padding: 20px;
+}
+
+.about-us h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.contact-us {
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+.contact-us h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.contact-us ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.contact-us li {
+	margin: 10px 0;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
